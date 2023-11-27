@@ -1,0 +1,16 @@
+.box {
+  height: 150px;
+  background-color: black;
+  color: white;
+  overflow: hidden;
+  white-space: nowrap;
+  margin-top: 50px;
+}
+
+.card {
+  height: 150px;
+  width: 220px;
+  text-align: center;
+  display: inline-block;
+  background-color: olivedrab;
+}
